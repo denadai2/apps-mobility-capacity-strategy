@@ -26,7 +26,7 @@ latitude: float
 longitude: float
 ```
 
-The output file will be placed in [], and it will have the following format:
+The output file will be placed in the path specified by `output_path`, and it will have the following format:
 
 ```
 user_id: string
