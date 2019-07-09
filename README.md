@@ -1,4 +1,4 @@
-# Strategies and limitations in app usage and in human mobility
+# Strategies and limitations in app usage and human mobility
 
 This repository shares the stop location algorithm, the aggregated data and the notebooks to repeat some of the experiments of the manuscript.
 
